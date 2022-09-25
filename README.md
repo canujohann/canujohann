@@ -2,9 +2,10 @@
   <a href="https://www.linkedin.com/in/johanncanu/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=canujohann&style=flat-square&color=blue" alt=""/>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=canujohann&style=flat-square&color=blue" alt=""/>
+
 
 <h1> About me 👋 </h1>
 
@@ -23,7 +24,7 @@ I have a strong interest in the **blockchain industry** and spend half of my spa
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-plain-wordmark.svg" title="solidity" alt="solidity" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="solidity" alt="solidity" width="40" height="40"/>&nbsp;
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=canujohann&theme=dark&background=000000)](https://git.io/streak-stats)
