@@ -1,8 +1,16 @@
 ### About me 👋
 
-I am specialized in Web development as **DevOps** (architecture, development, cloudification, automation, ...), with experience as a manager in big multinational companies. I also have a strong interest in the **blockchain industry** .
+Hello, I am Johann CANU, living in Tokyo for more than 16 years. I am specialized in Web development as **DevOps** (architecture, development, cloudification, automation, ...), with a long experience as a manager in big multinational companies. 
 
-- 👯 I’m looking to collaborate on some blockchain project ( in particular Pokladot)
+I have a strong interest in the **blockchain industry** and spend half of my spare time in developing Dapps (mainly ethereum, MATIC, polkadot)
+
+- 👯 I’m looking for collaborator to work with me on my web3 projects
 - 💬 Ask me about spring boot, Nodejs and AWS architecture
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/johanncanu/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 
