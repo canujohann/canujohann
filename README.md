@@ -9,7 +9,7 @@
 
 <h1> About me 👋 </h1>
 
-Hello, I am Johann CANU, living in Tokyo for more than 16 years. I am specialized in Web development as **DevOps** with a long experience as a manager in big multinational companies. 
+Hello, I am Johann CANU, living in Tokyo for more than 16 years. I am specialized in Web development in cloud as **DevOps** with a long experience as a manager in big multinational companies. 
 
 I have a strong interest in the **blockchain industry** and spend half of my spare time in developing Dapps (mainly ethereum, MATIC, polkadot)
 
