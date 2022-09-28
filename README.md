@@ -15,7 +15,7 @@ I have a strong interest in the **blockchain industry** and spend half of my spa
  MATIC network.
 - [shamir-SSS-script](https://github.com/canujohann/shamir-SSS-script), script to encrypt/decrypt with Shamir's threshold secret sharing scheme
 - [crowdfunding-web3-sample](https://github.com/canujohann/crowdfunding-web3-sample), a sample web3 NextsJs application with smart contracts to create a crowdfunding system
-- NTF-marketplace, a marketplace to mint/sell/buy NTFs on the MATIC blockchain. 
+- [NTF-marketplace](https://github.com/canujohann/NFT-marketplace), a marketplace to mint/sell/buy NTFs on the Ethereum blockchain. 
 
 ## :hammer_and_wrench: Languages and Tools
 
