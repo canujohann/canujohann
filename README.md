@@ -7,7 +7,7 @@
 
 ## 🇫🇷 🇯🇵 About me
 
-Hello, I am **Johann CANU**, living in Tokyo since 2007. I am specialized in Web development in cloud as **DevOps** with a long experience as a "Software Engineering Manager" in big multinational companies. Ask me everything about spring boot, Nodejs, AWS architecture or web3 Dapps !
+Hello, I am **Johann CANU**, living in Tokyo since 2007. I am specialized in Web development in cloud as **DevOps** with a long experience as a "Software Engineering Manager" in multinational companies. Ask me everything about spring boot, Nodejs, AWS architecture or web3 Dapps !
 
 I have a strong interest in the **blockchain industry** and spend half of my spare time in **developing Dapps** (mainly ethereum, MATIC, polkadot). I’m looking for collaborator to work with me on my web3 projects :
 
