@@ -7,11 +7,11 @@
 
 ## 🇫🇷 🇯🇵 About me
 
-Hello, I am **Johann CANU**, living in Tokyo since 2007. I am specialized in Web development in cloud as **DevOps** with a long experience as a "Software Engineering Manager" in multinational companies. Ask me everything about spring boot, Nodejs, AWS architecture or web3 Dapps !
+Hello, I am **Johann CANU**, living in Tokyo since 2007. I am specialized in Web development in cloud as **DevOps** with a long experience as a "Software Engineering Manager" in multinational companies. 
 
-I have a strong interest in the **blockchain industry** and spend half of my spare time in **developing Dapps** (mainly ethereum, MATIC, polkadot). I’m looking for collaborator to work with me on my web3 projects :
+I have a strong interest in the **blockchain industry** & **AI** and spend a large part of my spare time in **developing Web Applications**. 
 
-- [Decentralized-tube](https://github.com/canujohann/decentralized-tube), a fully decentralized videos platform (youtube clone), ready to be deployed on 
+- [Decentralized-tube](https://github.com/canujohann/decentralized-tube), a fully decentralized video platform (YouTube clone), ready to be deployed on 
  MATIC network.
 - [shamir-SSS-script](https://github.com/canujohann/shamir-SSS-script), script to encrypt/decrypt with Shamir's threshold secret sharing scheme
 - [crowdfunding-web3-sample](https://github.com/canujohann/crowdfunding-web3-sample), a sample web3 NextsJs application with smart contracts to create a crowdfunding system
@@ -25,7 +25,3 @@ I have a strong interest in the **blockchain industry** and spend half of my spa
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="solidity" alt="solidity" width="40" height="40"/>&nbsp;
-
-## 🥇 Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=canujohann&theme=tokyonight_duo)](https://git.io/streak-stats)
